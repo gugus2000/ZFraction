@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1473728017 source:c:\users\genevieve\documents\prog\c++\non_compil\zfraction\main.cpp
+	<iostream>
+	"ZFraction.h"
+	<ostream>
+
+1473728279 c:\users\genevieve\documents\prog\c++\non_compil\zfraction\zfraction.h
+	<ostream>
+
+1473734476 source:c:\users\genevieve\documents\prog\c++\non_compil\zfraction\zfraction.cpp
+	"ZFraction.h"
+	<iostream>
+	<ostream>
+
